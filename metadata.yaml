@@ -1,0 +1,31 @@
+_repo: Mississippi-Outlaws-and-the-DetectivesDon-Pedro-and-the-Detectives--Poisoner-and-the-Detectiv__35686
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35686-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pinkerton, Allan
+    birthdate: 1819
+    deathdate: 1884
+    gutenberg_agent_id: '7587'
+    url: http://www.gutenberg.org/2009/agents/7587
+    wikipedia: http://en.wikipedia.org/wiki/Allan_Pinkerton
+description: ''
+gutenberg_issued: '2011-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Detectives'
+- !lcc 'PS'
+- !lcc 'HV'
+title: 'Mississippi Outlaws and the Detectives
+
+  Don Pedro and the Detectives; Poisoner and the Detectives'
+url: http://www.gutenberg.org/ebooks/35686
