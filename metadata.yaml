@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7587
     wikipedia: http://en.wikipedia.org/wiki/Allan_Pinkerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35686#Mississippi-Outlaws-and-the-DetectivesDon-Pedro-and-the-Detectives--Poisoner-and-the-Detectiv_
 gutenberg_issued: '2011-03-26'
 gutenberg_type: Text
 identifiers:
